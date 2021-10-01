@@ -1,0 +1,156 @@
+2021-10-01 17:54:05,638 [5] (null) DEBUG eShopLegacyMVC.MvcApplication - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:06,063 [5] (null) INFO eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /Catalog/Index?pageSize=10&pageIndex=0
+
+2021-10-01 17:54:09,366 [5] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now disposing
+
+2021-10-01 17:54:09,403 [5] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now disposing
+
+2021-10-01 17:54:09,629 [9] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/1/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:09,630 [8] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/2/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:09,640 [10] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/3/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:09,707 [6] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/9/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:09,725 [7] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/5/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:09,737 [5] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/10/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:09,742 [9] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/1/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?1/pic
+
+2021-10-01 17:54:09,755 [7] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/7/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:09,756 [7] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/7/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?7/pic
+
+2021-10-01 17:54:09,767 [8] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/4/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:09,769 [8] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/4/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?4/pic
+
+2021-10-01 17:54:09,782 [7] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/8/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:09,783 [7] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/8/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?8/pic
+
+2021-10-01 17:54:09,799 [5] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/6/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:09,800 [5] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/6/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?6/pic
+
+2021-10-01 17:54:10,216 [8] (null) INFO eShopLegacyMVC.Controllers.PicController - (null)
+Now loading... /items/Index?2/pic
+
+2021-10-01 17:54:10,233 [6] (null) INFO eShopLegacyMVC.Controllers.PicController - (null)
+Now loading... /items/Index?9/pic
+
+2021-10-01 17:54:10,256 [7] (null) INFO eShopLegacyMVC.Controllers.PicController - (null)
+Now loading... /items/Index?10/pic
+
+2021-10-01 17:54:10,723 [9] (null) INFO eShopLegacyMVC.Controllers.PicController - (null)
+Now loading... /items/Index?3/pic
+
+2021-10-01 17:54:10,738 [6] (null) INFO eShopLegacyMVC.Controllers.PicController - (null)
+Now loading... /items/Index?5/pic
+
+2021-10-01 17:54:32,633 [5] (null) DEBUG eShopLegacyMVC.MvcApplication - /Catalog/Create, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:32,637 [5] (null) INFO eShopLegacyMVC.Controllers.CatalogController - /Catalog/Create, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /Catalog/Create
+
+2021-10-01 17:54:32,804 [5] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /Catalog/Create, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now disposing
+
+2021-10-01 17:54:32,808 [5] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /Catalog/Create, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now disposing
+
+2021-10-01 17:54:34,359 [9] (null) DEBUG eShopLegacyMVC.MvcApplication - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,360 [9] (null) INFO eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /Catalog/Index?pageSize=10&pageIndex=0
+
+2021-10-01 17:54:34,366 [9] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now disposing
+
+2021-10-01 17:54:34,370 [9] (null) DEBUG eShopLegacyMVC.Controllers.CatalogController - /, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now disposing
+
+2021-10-01 17:54:34,561 [5] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/1/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,561 [8] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/2/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,570 [5] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/1/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?1/pic
+
+2021-10-01 17:54:34,602 [10] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/8/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,608 [10] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/8/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?8/pic
+
+2021-10-01 17:54:34,604 [6] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/3/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,621 [6] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/3/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?3/pic
+
+2021-10-01 17:54:34,633 [11] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/5/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,640 [5] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/4/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,641 [11] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/5/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?5/pic
+
+2021-10-01 17:54:34,680 [7] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/10/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,743 [6] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/6/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,748 [7] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/10/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?10/pic
+
+2021-10-01 17:54:34,711 [8] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/9/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,759 [8] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/9/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?9/pic
+
+2021-10-01 17:54:34,782 [14] (null) DEBUG eShopLegacyMVC.MvcApplication - /items/7/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+WebApplication_BeginRequest
+
+2021-10-01 17:54:34,802 [14] (null) INFO eShopLegacyMVC.Controllers.PicController - /items/7/pic, Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36 Edg/94.0.992.37
+Now loading... /items/Index?7/pic
+
+2021-10-01 17:54:35,081 [11] (null) INFO eShopLegacyMVC.Controllers.PicController - (null)
+Now loading... /items/Index?2/pic
+
+2021-10-01 17:54:35,221 [6] (null) INFO eShopLegacyMVC.Controllers.PicController - (null)
+Now loading... /items/Index?4/pic
+
+2021-10-01 17:54:35,253 [7] (null) INFO eShopLegacyMVC.Controllers.PicController - (null)
+Now loading... /items/Index?6/pic
+

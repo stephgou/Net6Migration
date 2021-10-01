@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "step1-Net6Ported", "step1-Net6Ported.csproj", "{B412C20D-2953-444D-AA71-E26F05AE3661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B412C20D-2953-444D-AA71-E26F05AE3661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B412C20D-2953-444D-AA71-E26F05AE3661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B412C20D-2953-444D-AA71-E26F05AE3661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B412C20D-2953-444D-AA71-E26F05AE3661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36333B3-846D-4611-9F5C-F99EE0675AA6}
+	EndGlobalSection
+EndGlobal

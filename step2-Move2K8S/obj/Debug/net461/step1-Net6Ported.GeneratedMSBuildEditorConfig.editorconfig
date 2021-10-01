@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = step1-Net6Ported
+build_property.ProjectDir = C:\DEV\K8S\Net6Migration\step1-Net6Ported\
